@@ -158,14 +158,14 @@ body {
   font-size: 15px;
   line-height: 1.7em;
   margin: 0;
-  font-family: 'Open Sans', sans-serif; }
+  font-family: 'Khmer OS Battambang', sans-serif; }
 
 h1, h2, h3, h4, h5, h6, p {
   margin: 0 0 15px 0; }
 
 h1, h2, h3, h4, h5, h6 {
   color: #515151;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Khmer OS Battambang', sans-serif;
   font-weight: 600; }
 
 h1 {
@@ -194,7 +194,7 @@ address {
 
 pre {
   background: #eee;
-  font-family: "Courier 10 Pitch", Courier, monospace;
+  font-family: "Khmer OS Battambang", Courier, monospace;
   font-size: 15px;
   font-size: 0.9375rem;
   line-height: 1.6;
@@ -204,7 +204,7 @@ pre {
   padding: 1.6em; }
 
 code, kbd, tt, var {
-  font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+  font-family: "Khmer OS Battambang";
   font-size: 15px;
   font-size: 0.9375rem; }
 
@@ -296,7 +296,7 @@ button, .comment-reply-link, a.button {
   line-height: 1;
   padding: 13px 35px;
   display: inline-block;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Khmer OS Battambang', sans-serif;
   border-radius: 0px;
   font-weight: 600;
   text-transform: uppercase; }
@@ -308,7 +308,7 @@ input[type="button"], input[type="reset"], input[type="submit"] {
   line-height: 1;
   padding: 13px 35px;
   display: inline-block;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Khmer OS Battambang', sans-serif;
   border-radius: 0px;
   font-weight: 600;
   text-transform: uppercase; }
@@ -487,12 +487,12 @@ a {
 .main-navigation ul li a {
   color: #11101d;
   display: inline-block;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Khmer OS Battambang", sans-serif;
   font-size: 15px;
   padding: 20px 20px;
   position: relative;
   z-index: 99;
-  font-weight: 600;
+  font-weight: 400;
   text-transform: uppercase; }
 
 .main-navigation ul ul a {
@@ -2000,7 +2000,7 @@ embed, iframe, object {
   left: 50%; }
 
 p, li {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Khmer OS Battambang', sans-serif;
   font-weight: 400;
   font-size: 15px;
   line-height: 28px;
@@ -2039,7 +2039,7 @@ p, li {
 
 .slick-prev:before, .slick-next:before {
   font-size: 18px;
-  font-family: "FontAwesome";
+  font-family: "Khmer OS Battambang";
   color: #adadad;
   line-height: 35px; }
 
@@ -2130,7 +2130,7 @@ p, li {
   color: #2e2e2e;
   font-size: 28px;
   margin-bottom: 0;
-  font-family: 'Open Sans', sans-serif; }
+  font-family: 'Khmer OS Muol'; }
   .site-title > a {
     color: #2e2e2e;
     line-height: 1.3; }
@@ -2508,7 +2508,7 @@ p, li {
     .mid-header .ae-cart-wrapper:hover {
       background: #0188cc; }
   .mid-header .site-branding {
-    width: 22%;
+    width: 30%;
     float: left;
     margin: 0;
     margin-right: 8%; }
@@ -6433,9 +6433,9 @@ body.woocommerce-cart.ae-cart-tmpl-1 .cart-collaterals .cross-sells ul.products 
             padding: 15px 15px;
             display: inline-block;
             color: #444;
-            font-family: Open Sans;
+            font-family: "Khmer OS Battambang";
             font-size: 14px;
-            font-weight: 600;
+            font-weight: 500;
             line-height: 18px;
             letter-spacing: -.3px; }
           .special-menu-container ul.special-menu-wrapper ul.special-sub-menu li:hover {
@@ -7188,6 +7188,7 @@ body.woocommerce-cart.ae-cart-tmpl-1 .cart-collaterals .cross-sells ul.products 
     width: 100%; }
   .main-navigation ul li a {
     font-size: 14px;
+	  
     padding-left: 12px;
     padding-right: 12px; } }
 
